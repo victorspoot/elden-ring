@@ -36,9 +36,7 @@ header p {
 }
 
 nav {
-    font: bold;
-    margin: 10px;
-    padding: 10px;
+    color: var(--cor3);
 }
 
 main {
